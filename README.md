@@ -1,6 +1,6 @@
 # karguvel
 
-[![Github](https://img.shields.io/github/followers/karguvelm?label=Follow&style=social)](https://github.com/antonfrancisjeejo)
+[![Github](https://img.shields.io/github/followers/karguvelm?label=Follow&style=social)](https://github.com/karguvelm)
 
 ## About me 
 I'm a full stack developer. I like to work with PHP, Laravel, Livewire, AlphineJS, VueJS, Firebase, AWS, MongoDB, and NodeJS. 
